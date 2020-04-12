@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Me</string>
+    <string name="name_text">Name</string>
+    <string name="yellow_star">Yellow Star</string>
+</resources>
